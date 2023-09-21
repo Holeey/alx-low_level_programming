@@ -22,7 +22,7 @@ void puts2(char *str)
 	{
 		if (m % 2 == 0)
 		{
-			_putschar(str[o]);
+			_putschar(str[m]);
 
 		}
 	}
